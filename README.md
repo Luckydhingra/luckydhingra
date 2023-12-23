@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=luckydhingra&label=Profile%20views&color=0e75b6&style=flat" alt="luckydhingra" /> </p>
 <img align="right"  width="400" src="https://blog.hubspot.com/hs-fs/hubfs/Smiling%20Leo%20Perfect%20GIF.gif?width=893&height=600&name=Smiling%20Leo%20Perfect%20GIF.gif">
-- 🔭 I’m Open-Source_Contribution
+- 🔭 I’m Open-Source_Contributor
 
 - 🌱 I’m currently learning **React-js**
 
